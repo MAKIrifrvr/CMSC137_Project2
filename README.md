@@ -1,6 +1,6 @@
 Name: Rhey Mark John Q. Casero
 Student Number: 2012-69715
-Section: CD-3L
+Section: B-4L
 
 Description:
 	This is a mini-webserver that is implemented using Java.
